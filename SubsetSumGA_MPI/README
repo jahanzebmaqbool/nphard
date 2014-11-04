@@ -1,0 +1,9 @@
+/**
+* This program is a distributed memory implementation of SubsetSum problem using Message Passing Interface.
+* I have parallelized this in rather unusual domain decomposition contrary to existing GA paralleization 
+* techniques employed which is population wise domain decomposition. Instead of going for this, I used
+* Chromosome wise domain decomposition and column wise division of population.
+* 
+* 
+* Author : Jahanzeb Maqbool, Ajou University, Dept. of Computer Engineering, South Korea.
+*/
